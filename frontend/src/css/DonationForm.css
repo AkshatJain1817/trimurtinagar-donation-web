@@ -1,0 +1,25 @@
+.donation-form-container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f0efeb;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  .donation-form-container h2 {
+    text-align: center;
+    color: #bc4749;
+  }
+  .donation-form-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  .donation-form-container input,
+  .donation-form-container textarea,
+  .donation-form-container select {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  

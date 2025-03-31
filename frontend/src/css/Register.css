@@ -1,0 +1,23 @@
+.register-container {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fef9c3;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  .register-container h2 {
+    text-align: center;
+    color: #b08968;
+  }
+  .register-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  .register-container input {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
